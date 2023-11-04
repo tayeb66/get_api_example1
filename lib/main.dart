@@ -32,6 +32,11 @@ class _HomePageState extends State<HomePage> {
         title: Text("Fetching data "),
         centerTitle: true,
       ),
+      body: Center(
+        child: Column(
+
+        ),
+      ),
     );
   }
 }
